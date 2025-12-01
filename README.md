@@ -1,4 +1,12 @@
 # DevAcademy SQL Project
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Database Design](https://img.shields.io/badge/Focus-Database_Design-2C3E50?style=for-the-badge)
+![ERD Included](https://img.shields.io/badge/ERD-Entity_Relationship_Diagram-8E44AD?style=for-the-badge)
+![Project Type](https://img.shields.io/badge/Type-Full_Database_Project-0A66C2?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-2ECC71?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/danij4ne/devacademy-sql-project?style=for-the-badge)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/danij4ne/devacademy-sql-project?style=for-the-badge)
+
 
 This project defines the complete relational database architecture for the DevAcademy system. It consolidates schema creation, entity constraints, relational design, seed data insertion, operational queries, and SQL logic for indexes, triggers, views, and stored procedures. An ERD diagram is included to illustrate the structural relationships across all entities.
 
